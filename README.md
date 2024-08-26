@@ -3,4 +3,4 @@
 
 Not open source.
 
-https://www.bilibili.com/video/BV1Xoe3eAEgE/
+https://www.bilibili.com/video/BV1Xoe3eAEgE
