@@ -3,4 +3,4 @@
 
 Not open source.
 
-https://www.bilibili.com/video/BV1Xoe3eAEgE
+https://space.bilibili.com/386919430/channel/collectiondetail?sid=3482643
