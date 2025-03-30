@@ -1,5 +1,5 @@
 # MegaWalls78-Open
-1.21.1 Hypxiel MegaWalls Remake Plugin
+1.21.4 Hypxiel MegaWalls Remake Plugin
 
 More, please watch [Videos](https://space.bilibili.com/386919430/channel/collectiondetail?sid=3482643).
 
