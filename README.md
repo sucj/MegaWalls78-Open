@@ -1,3 +1,5 @@
+> ⚠ 此项目已转为 `project78`
+
 # MegaWalls78-Open
 1.21.4 Hypxiel MegaWalls Remake Plugin
 
