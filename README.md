@@ -8,4 +8,4 @@ More, please watch [Videos](https://space.bilibili.com/386919430/channel/collect
 
 这里没有任何开发文档，如果你会也不用教，如果你是初学者请3-5 business days后再来。
 
-## Plugin core is not open source now.
+[SRC](https://github.com/sucj/MegaWalls78)
